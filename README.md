@@ -1,2 +1,2 @@
 # Drum-kit
-Playing Drum kit
+Drum kit simulator
